@@ -1,11 +1,6 @@
-### WRF-ARW Modeling System  ###
+This is supposed to be one of our projects in one of the hackathons but due to the technical issues we had we were not able to go forward with this project. 
 
-We request that all new users of WRF please register. This allows us to better determine how to support and develop the model. Please register using this form:[https://www2.mmm.ucar.edu/wrf/users/download/wrf-regist.php](https://www2.mmm.ucar.edu/wrf/users/download/wrf-regist.php).
+Our initial goal was to compile and run the wrf API and then use them in our AI to have the informaiton where the wind is blowing, therefore to help the peopl who are near a place that got burned recently could find out that the air could be contaminated with the fire. 
 
-For an overview of the WRF modeling system, along with information regarding downloads, user support, documentation, publications, and additional resources, please see the WRF Model Users' Web Site: [https://www2.mmm.ucar.edu/wrf/users/](https://www2.mmm.ucar.edu/wrf/users/).
- 
-Information regarding WRF Model citations (including a DOI) can be found here: [https://www2.mmm.ucar.edu/wrf/users/citing_wrf.html](https://www2.mmm.ucar.edu/wrf/users/citing_wrf.html).
-
-The WRF Model is open-source code in the public domain, and its use is unrestricted. The name "WRF", however, is a registered trademark of the University Corporation for Atmospheric Research. The WRF public domain notice and related information may be found here: [https://www2.mmm.ucar.edu/wrf/users/public.html](https://www2.mmm.ucar.edu/wrf/users/public.html).
-
+Our mission was to serve the people who lived closely to the fire that happend in Los Angles California. 
 
